@@ -9,7 +9,7 @@ lan chat
 3.download the files 
 
 4. make a file in  public\chat\ and call it USERS
-5. 
+
 5.make a file in public\chat\ and call it  Program_Files
 
 6.save msgbox.cmd to Program_Files

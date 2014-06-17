@@ -20,3 +20,4 @@ lan chat
 
 9.make a shortcut of login.cmd and clear.cmd to your desktop
 
+10.run login.cmd and make a username and password

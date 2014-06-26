@@ -27,7 +27,7 @@ ping localhost -n 2 >nul
 goto home
 
 :logon
-color 
+color 0b
 cls
 set /p un=Username:
 echo ____________________________
